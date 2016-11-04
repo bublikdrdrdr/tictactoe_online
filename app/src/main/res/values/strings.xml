@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Krzyżyk i Kółko</string>
+    <string name="nobody_won">Nobody won</string>
+    <string name="first_won">The first player won (cross)</string>
+    <string name="second_won">The second player won (circle)</string>
+</resources>
